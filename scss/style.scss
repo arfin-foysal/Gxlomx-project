@@ -1,0 +1,120 @@
+// navbar start
+.navbar{
+    .navbar-nav{
+        margin-left:auto ;
+        
+
+        .nav-item {
+            margin-right:20px;
+            .nav-link{
+                font-size: 15px;
+                text-transform: uppercase;
+                text-decoration: none;
+            }
+        }
+    }
+}
+// navbar end
+.carosel-img1{
+    background-image: url(../img/image1.jpeg);
+    min-height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.carosel-img2{
+    background-image: url(../img/image2.jpeg);
+    min-height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.carosel-img3{
+    background-image: url(../img/image3.jpeg);
+    min-height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ready{
+    background-image: url(../img/bg1.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.overly{
+    background-color: rgba(0, 0, 0, 0.678);
+}
+
+#video-youtube{
+    background-image: url(../img/people.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+#footer{
+    background-color: black;
+}
+#image-gallery{
+    img{
+        height: 200px;
+        width: 400px;
+    }
+}
+
+// about start
+#about-us{
+    background-image: url(../img/image1.jpeg);
+    background-position: inherit;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
+
+#what-we-do{
+    img{
+        width: 350px;
+        height: 350px;
+    }
+}
+// about end 
+
+#services{
+    background-image: url(../img/image3.jpeg);
+    background-position: inherit;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
+#price{
+    button{
+        display: block;
+        width: 100%;
+    }
+}
+#blog{
+    background-image: url(../img/image1.jpeg);
+    background-position: inherit;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
+#contact{
+    background-image: url(../img/image5.jpeg);
+    background-position: inherit;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
